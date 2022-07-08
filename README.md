@@ -1,4 +1,1 @@
-# DigitRecognizer
-
-Jayadity aSeth
-
+# Digit Recognizer
